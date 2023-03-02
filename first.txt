@@ -1,5 +1,0 @@
-This just in:
-I had created a file within a folder created as well.
-- Then I'm going to git add the file to the branch
-- then I will commit to it
-- then check the log 
